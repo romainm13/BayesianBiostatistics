@@ -1,0 +1,12 @@
+# OS files
+*.DS_Store
+
+# File
+ToDoList.md
+
+# Other files
+*.pyc
+*.pdf
+*.rtf
+*.png
+*.jpg
