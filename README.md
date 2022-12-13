@@ -6,7 +6,11 @@ Tutor: [**Ulysse Herbach**](https://herbach.perso.math.cnrs.fr/) (research scien
 
 **Topic**: *Statistical inference of gene networks from dynamic graphs*
 
-The approach used in this research project is to model gene interactions by graphs, whose structure will be determined by Bayesian inference. In order to obtain concrete results and to verify the soundness of the theory, we will implement codes in Python.
+The approach used in this research project is to model gene interactions using graph theory, with the structure of the graph being determined using Bayesian inference.
+
+We will implement our model using Python in order to obtain concrete results and verify the accuracy of our approach. 
+
+By using a combination of graph theory and Bayesian inference, we aim to gain a better understanding of the complex relationships between genes and their interactions.
 
 ## Bibliography:
 
@@ -19,5 +23,3 @@ The approach used in this research project is to model gene interactions by grap
 
 * [Schwaller et al., 2019] Schwaller, L., Robin, S., and Stumpf, M. (2019). Closed-form
   bayesian inference of graphical model structures by averaging over trees. Journal de la société française de statistique, 160(2) :1–23.
-
-# 
